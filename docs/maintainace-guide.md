@@ -72,7 +72,7 @@ Just run `npm run test`
 
 ## Write document
 
-this document written by `docsify`.
+Start server: `npx docsify serve docs`
 
 See Reference: [Quick Start](https://docsify.js.org/#/quickstart)
 
